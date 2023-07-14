@@ -1,4 +1,3 @@
-const Prism = require("./prism");
 
 function run(){
 
